@@ -108,6 +108,15 @@
         "zany"
       ],
       "id": "10"
+    },
+    {
+      "name": "Big Doink",
+      "species": "Gopher",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
